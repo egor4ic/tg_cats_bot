@@ -9,10 +9,11 @@
 ## Как запустить
 
 1. скачать все нужные бибилиотеки:
-    - requests
-    - telebot
+    - requests (```pip install requests```)
+    - telebot (```pip install telebot```)
 ####
 2. ввести свой токен бота полученый у @botfather
+![img.png](img.png) ![img_1.png](img_1.png) ![img_2.png](img_2.png)
 
 3. запустить код программы через CMD или другую рабочую среду
    
